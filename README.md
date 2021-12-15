@@ -33,7 +33,7 @@ Project on taking 3 datasets from the web to create an interactive program that 
 
 ## Screenshots
 
-![App Screenshot](file:///Users/chaimilee/Desktop/Screen%20Shot%202021-12-15%20at%201.56.47%20PM.png)
+![App Screenshot](https://github.com/chaimilee/AstronomyToAstrology/blob/main/Screen%20Shot%202021-12-15%20at%201.56.47%20PM.png)
 
 
 
