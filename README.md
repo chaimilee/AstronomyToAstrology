@@ -3,6 +3,8 @@
 
 Project on taking 3 datasets from the web to create an interactive program that gives astrological information on the planets that are present in the user's city at the time of querying.
 
+The idea of this project is to combine my interests in astronomy with my interests in astrology. Here, I am using real-time data on the planets that are available in the user's location to give the user their personalized horoscope. Through this project, I wanted to use my skills in data and Python to find an intersection between science and mythology.
+
 
 ## Installation
 
