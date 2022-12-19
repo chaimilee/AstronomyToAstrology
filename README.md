@@ -33,7 +33,7 @@ The idea of this project is to combine my interests in astronomy with my interes
 
 
 
-## Screenshots
+## Example of Usage
 
 ![App Screenshot](https://github.com/chaimilee/AstronomyToAstrology/blob/main/Screen%20Shot%202021-12-15%20at%201.56.47%20PM.png)
 
